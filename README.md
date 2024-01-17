@@ -7,7 +7,7 @@ Created a NFT Generator with Hardhat, Solidity, and React. Redefining token crea
 1. Clone the repository.
 
 ```
-git clone https://github.com/flenex-io/ChatRoom.git
+git clone https://github.com/flenex-io/NFT-Generator.git
 ```
 
 2. Change the directory
