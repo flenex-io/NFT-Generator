@@ -23,7 +23,7 @@ cd NFT-Generator
 npx hardhat node
 ```
 
-5. Run the project
+5. Open another terminal and run the project
 
 ```
 npm start
