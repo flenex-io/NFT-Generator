@@ -13,7 +13,7 @@ git clone https://github.com/flenex-io/NFT-Generator.git
 2. Change the directory
 
 ```
-cd ChatRoom
+cd NFT-Generator
 ```
 
 3. Create a .env file and paste your API keys
