@@ -1,6 +1,6 @@
 # NFT GENERATOR
 
-Created a NFT Generator with Hardhat, Solidity, and React. Redefining token creation, this project seamlessly merges innovation with simplicity, providing artists and collectors an unmatched experience in digital ownership. Welcome to the future of NFTs
+Created a Image Generator project with solidity, react and hugging face API. You just need to enter the name of the image and the description about the image and within few seconds or sometime it may take a minute to generate the image
 
 ## Setup
 
