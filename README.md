@@ -15,7 +15,7 @@ git clone https://github.com/flenex-io/NFT-Generator.git
 cd NFT-Generator
 ```
 
-3. Create a .env file and paste your Huggin Face API keys
+3. Create a .env file and paste your Huggin Face and NFT Storage API keys
 
 4. Run hardhat node
 ```
